@@ -10,4 +10,5 @@ Numpy
 Matplotlib (for visualization)
 
 Lipnet architecture:
+
 ![image](https://github.com/muhammadmehdi89/Lips-Reading-video-processing-using-keras/assets/142395586/a40a3659-9244-4936-91ec-16ec3a85eb44)
